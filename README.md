@@ -1,2 +1,3 @@
-# sistema-torneio-tenis
-Sistema simples para gerenciamento de torneios de tênis
+# Sistema Torneio Tênis – SG São Bento
+
+Projeto Next.js com banco Supabase para gerenciar torneios, jogadores e partidas.
